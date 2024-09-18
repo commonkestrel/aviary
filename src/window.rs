@@ -7,7 +7,7 @@ pub fn Window(children: Children) -> impl IntoView {
             <div class="titlebar">
                 <h2>
                 </h2>
-                <div>
+                <div class="titlebar-buttons">
                     <button class="titlebar-button minimize"></button>
                     <button class="titlebar-button close"></button>
                 </div>

@@ -1,5 +1,6 @@
-mod window;
+mod fs;
 mod terminal;
+mod window;
 
 use terminal::Terminal;
 use window::Window;
